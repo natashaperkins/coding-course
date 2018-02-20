@@ -1,0 +1,20 @@
+body {
+  background: rgba(148, 208, 228, 0.33)
+}
+h1 {
+  font-size: 75px;
+  text-align: center;
+  font-family: helvetica;
+  color: pink;
+}
+h2 {
+  font-size: 50px;
+  text-align: center;
+  font-family: helvetica;
+  color: pink;
+}
+p {
+  text-align: center;
+  font-family: helvetica;
+  color: pink;
+}
